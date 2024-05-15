@@ -1,8 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// maintain a list -> set
-
 unordered_map<string , unordered_set<string>>mp;
 
 class Dish{
